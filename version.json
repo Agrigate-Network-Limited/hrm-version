@@ -1,9 +1,9 @@
 {
   "app_name": "hrms_app",
-  "version": "1.0.1",
-  "build_number": "2",
+  "version": "1.0.4",
+  "build_number": "4",
   "package_name": "com.angl.hrms",
-  "apkUrl": "https://drive.google.com/uc?export=download&id=1lLDzE0_gwiUE1IdJxIu_pKX8bjzydkWd",
+  "apkUrl": "https://drive.google.com/uc?export=download&id=1z6vUUvBOqfvB4mi-e_WmjKd8BSz1yw4H",
   "isMandatory": false,
   "updateNotes": "Battery optimization, auto 9 AM-8 PM tracking, and background stability improvements."
 }
